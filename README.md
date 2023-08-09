@@ -1,7 +1,7 @@
 # Diversified Portfolio by Clustering
 
 
-This project is to build a diversified portfolio by clustering stocks. The idea is to cluster stocks based on their historical data, and then pick three stocks from each cluster to form a diversified portfolio. The assumption is that stocks in the same cluster are similar to each other in terms of their price movements, and stocks in different clusters are different from each other. Therefore, picking one stock from each cluster will result in a diversified portfolio.
+This project aims to create a diversified portfolio by clustering stocks. The idea is to cluster stocks based on their historical data, and then pick three stocks from each cluster to form a diversified portfolio. The assumption is that stocks in the same cluster are similar to each other in terms of their price movements, and stocks in different clusters are different from each other. Therefore, picking one stock from each cluster will result in a diversified portfolio.
 
 
 ## Data
